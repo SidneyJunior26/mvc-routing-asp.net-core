@@ -19,7 +19,7 @@
 
 ## Portuguese 🇧🇷
 
-Projeto desenvolvido com padrão MVC focada no back-end trabalhando com o protocolo HTTP e controle de requisições utilizando o servidor Kestrel e dois recursos muito importantes 
+Projeto desenvolvido com padrão MVC focado no back-end trabalhando com o protocolo HTTP e controle de requisições utilizando o servidor Kestrel e dois recursos muito importantes 
 do framework Asp.Net Core MVC para renderizar suas views: o estágio ExecuteResult, que é onde o framework escreve a resposta HTTP a partir da view. E o motor de renderização de 
 views Razor, que é a implementação padrão.
 
