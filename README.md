@@ -13,7 +13,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SidneyJunior26?tab=repositories)](https://github.com/SidneyJunior26?tab=repositories)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/sidney-junior-0b60ba10a/)]( https://www.linkedin.com/in/sidney-junior-0b60ba10a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidney-junior-0b60ba10a/)]( https://www.linkedin.com/in/sidney-junior-0b60ba10a/)
 
 ## About Project 🚀
 
